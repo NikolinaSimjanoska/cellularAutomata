@@ -1,4 +1,4 @@
-# Cellular Automata Examples
+# Cellular Automata 
 
 ## Overview
 This project consists of two examples of cellular automata: a 1D cellular automaton and a 2D cellular automaton. The 1D cellular automaton includes a simple user interface for inputting rules in decimal form, while the 2D cellular automaton is based on Conway's Game of Life.
